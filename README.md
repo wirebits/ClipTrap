@@ -22,3 +22,6 @@ pip3 install -r requirements.txt
 1. Download or Clone the Repository.
 2. Open the folder.
 4. After that run the *ClipTrap.py* file.
+
+# For faster execution...
+Use a USB Rubber Ducky.
