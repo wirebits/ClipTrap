@@ -1,1 +1,2 @@
 pyperclip==1.8.2
+sockets==1.0.0
