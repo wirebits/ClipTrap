@@ -6,6 +6,10 @@ A tool which copy text to the clipboard remotely.
 - When *Sender.py* closed, then automatically the *Receiver.py* stops.
 - If the clipboard is empty, then the program stopped.
 
+# Demo Video
+
+https://github.com/wirebits/ClipTrap/assets/159493381/c0ec7e20-a162-4377-80e8-80e2a6050368
+
 # OS Support
 - Windows 10
 - Raspberry Pi OS
