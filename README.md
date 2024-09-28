@@ -40,8 +40,8 @@ pip3 install -r requirements.txt
 pythonw.exe Receiver.py
 ```
 
-[!TIP]
-> The sender machine and the receiver machine is connected to the same network.
+>[!TIP]
+>The `Sender Machine` and the `Receiver Machine` is connected to the same network.
 
 # Get Victim IP Address
 ## Windows
