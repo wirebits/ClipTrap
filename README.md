@@ -40,13 +40,10 @@ pip3 install -r requirements.txt
 pythonw.exe Receiver.py
 ```
 
-# Keep In Mind
-The sender machine and the receiver machine is connected to the same network.
-![Connections](https://github.com/wirebits/ClipTrap/assets/159493381/6ebc83de-7888-4880-9f2b-a28a7c59332e)
-
+[!TIP]
+> The sender machine and the receiver machine is connected to the same network.
 
 # Get Victim IP Address
-
 ## Windows
 1. Open CMD.
 2. Type *ipconfig*.
